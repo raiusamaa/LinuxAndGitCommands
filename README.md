@@ -16,9 +16,9 @@ Git Commands:
 2. git init: This command is used to start a new repository.
 3. git clone: This command is used to obtain a repository from an existing URL.
 4. git add: This command adds a file to the staging area.
-5. git commit: This command records or snapshots the file permanently in the version history.
+5. git commit: This command records the file permanently in the version history.
 6. git diff: This command shows the file differences which are not yet staged.
-7. Git Diff Command - Git Commands - Edureka
+7. git remote: This command is used to connect your local repository to the remote server.
 8. git reset: This command unstages the file, but it preserves the file contents.
 9. git status: This command lists all the files that have to be committed.
 10. git pull: This command fetches and merges changes on the remote server to your working directory.
